@@ -1,0 +1,5 @@
+ww-mycomponent/
+├─ src/
+│  └─ index.vue
+├─ ww-config.json
+└─ package.json
