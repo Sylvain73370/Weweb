@@ -1,5 +1,2 @@
-ww-mycomponent/
-├─ src/
-│  └─ index.vue
-├─ ww-config.json
-└─ package.json
+git clone https://github.com/votre-org/ww-mycomponent.git
+cd ww-mycomponent
